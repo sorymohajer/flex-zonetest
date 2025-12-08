@@ -1,0 +1,35 @@
+{
+  "1": {
+    "id": "1",
+    "operatorId": "vodafone1",
+    "title": "تجربة",
+    "price": "مجاني",
+    "data": "0000000",
+    "validity": "30",
+    "details": "تجربة وصف",
+    "leftBadgeUrl": "https://i.postimg.cc/zvGFQbKf/pngegg.png",
+    "rightBadgeUrl": ""
+  },
+  "PKG003": {
+    "id": "PKG003",
+    "operatorId": "etisalat",
+    "title": "باقة 15 جيجا",
+    "price": "70 جنيه",
+    "data": "15 GB",
+    "validity": "30 يوم",
+    "details": "باقة إنترنت 15 جيجا صالحة لمدة 30 يوم",
+    "leftBadgeUrl": "",
+    "rightBadgeUrl": ""
+  },
+  "PKG002": {
+    "id": "PKG002",
+    "operatorId": "vodafone",
+    "title": "باقة 20 جيجا",
+    "price": "90 جنيه",
+    "data": "20 GB",
+    "validity": "30 يوم",
+    "details": "باقة إنترنت 20 جيجا صالحة لمدة 30 يوم",
+    "leftBadgeUrl": "",
+    "rightBadgeUrl": ""
+  }
+}
