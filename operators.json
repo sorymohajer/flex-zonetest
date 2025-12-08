@@ -7,6 +7,14 @@
     "primaryColor": "#E60000",
     "isActive": true
   },
+   "vodafone1": {
+    "id": "vodafone1",
+    "name": "vodafoneeeeee تجربة",
+    "nameAr": "vodafoneeeeee تجربةالباقة مكررة",
+    "logoUrl": "https://i.postimg.cc/yNSmpctk/thumb.webp",
+    "primaryColor": "#6d7a6f",
+    "isActive": true
+  },
   "vodafone1": {
     "id": "vodafone1",
     "name": "vodafone تجربة",
